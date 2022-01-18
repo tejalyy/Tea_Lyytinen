@@ -1,0 +1,24 @@
+body{
+background-color: rgb(36, 218, 218);
+margin: 20px;
+font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+color: beige;
+font-size: larger;
+margin-bottom: 20px;
+border: black;
+}
+
+img{
+
+}
+
+h1{
+color: blue;
+}
+
+h2{
+color: cadetblue;
+}
