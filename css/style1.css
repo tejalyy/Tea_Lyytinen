@@ -1,15 +1,34 @@
 body{
+background-color: rgb(177, 209, 231);
+font-family: Arial;
+font-size: x-large;
+color: rgb(71, 58, 184);
 
 }
 
 h1{
-
+color: rgb(240, 12, 12);
+text-decoration: underline;
+font-size: 16px;
+text-transform: uppercase;
+text-align: center;
 
 }
 
-a:link{
-
-
+a:link {
+    color: rgb(230, 9, 9);
+  
 }
 
-a:
+a:hover{
+    color: rgb(14, 91, 214);
+   
+  }
+
+  img{
+      border:1px solid red;
+      padding: 10px;
+      width: 250px;
+      opacity: 0.5;
+  }
+  
